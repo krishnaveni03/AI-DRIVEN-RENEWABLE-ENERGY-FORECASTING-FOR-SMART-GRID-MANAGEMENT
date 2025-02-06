@@ -282,7 +282,7 @@ def main():
         - Historical data: {min_date.strftime('%Y-%m-%d')} to {max_date.strftime('%Y-%m-%d')}
         - Predictions available up to: {extended_max_date.strftime('%Y-%m-%d')}
 
-        Note: Future predictions use Meteostat weather data
+        Note: Future predictions 
     """)
 
     # Date selection with extended range
