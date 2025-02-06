@@ -214,7 +214,7 @@ export default function EnergyDashboard() {
 
       <footer className="text-center py-6 text-slate-400 mt-auto">
         <p className="flex items-center justify-center gap-2">
-          Made with <span className="text-red-500">❤</span> at MIT
+          Made by Krishnaveni N,Dhivyasreenithi D,Kruthika S <span className="text-red-500">❤</span> at KCE
         </p>
       </footer>
     </div>
