@@ -45,7 +45,7 @@ export default function EnergyDashboard() {
   }, [offset]);
 
   const handleDemoClick = () => {
-    window.open('https://energyforecaster.streamlit.app/', '_blank');
+    window.open('https://ai-driven-renewable-energy-forecasting-for-smart-grid-manage.streamlit.app/', '_blank');
   };
 
   const metrics = [
