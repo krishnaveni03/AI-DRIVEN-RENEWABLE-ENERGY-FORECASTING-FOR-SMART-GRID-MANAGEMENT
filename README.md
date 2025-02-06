@@ -36,8 +36,9 @@ Data Sources:
 -Demand patterns
 
 Links: 
-https://energyforecasting.vercel.app/
-https://energyforecaster.streamlit.app/ 
+https://ai-driven-renewable-energy-forecasting-for-smart-9wyy37d7r.vercel.app/
+
+https://ai-driven-renewable-energy-forecasting-for-smart-grid-manage.streamlit.app/
 
 ## Key Features
 
