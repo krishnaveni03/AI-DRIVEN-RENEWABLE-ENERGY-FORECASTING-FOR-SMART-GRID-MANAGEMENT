@@ -304,7 +304,7 @@ def main():
 
     # Add warning for future dates
     if start_datetime.date() > datetime.now().date():
-        st.sidebar.warning("⚠️ Showing predictions using Meteostat forecast data")
+        st.sidebar.warning("Showing predictions")
     elif start_datetime.date() < min_date.date():
         st.error(f"Selected date is before available historical data ({min_date.strftime('%Y-%m-%d')})")
         return
