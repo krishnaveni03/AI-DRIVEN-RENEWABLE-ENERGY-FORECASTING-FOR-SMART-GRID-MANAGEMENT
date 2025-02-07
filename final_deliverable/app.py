@@ -220,7 +220,7 @@ class EnergyDashboard:
             plot_bgcolor='rgba(0,0,0,0)',
             font=dict(color='white'),
             title=dict(
-                text=f"Energy Generation and Demand Forecast ({timezone})",
+                # text=f"Energy Generation and Demand Forecast ({timezone})",
                 font=dict(size=24, color='white'),
                 x=0.5
             )
