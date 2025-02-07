@@ -231,7 +231,7 @@ class EnergyDashboard:
             showgrid=True,
             gridwidth=1,
             gridcolor='rgba(128,128,128,0.2)',
-            title_text="Time",
+            title_text="",
             title_font=dict(size=14),
             tickfont=dict(size=12)
         )
