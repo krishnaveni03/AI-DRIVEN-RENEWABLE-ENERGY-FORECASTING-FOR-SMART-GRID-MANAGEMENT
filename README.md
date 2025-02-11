@@ -35,8 +35,8 @@ Data Sources:
 -Past generation records
 -Demand patterns
 
-Links: 
-https://ai-driven-renewable-energy-forecasting-for-smart-9wyy37d7r.vercel.app/
+Links: [
+app](https://demand-forecasting-gold.vercel.app/)
 
 https://ai-driven-renewable-energy-forecasting-for-smart-grid-manage.streamlit.app/
 
