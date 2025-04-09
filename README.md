@@ -6,7 +6,7 @@ The goal of the project is to create an energy forecasting app that is trained o
 weather data and recorded energy production values. Given weather forecasts, the app predicts 
 energy generation and demand for corresponding times.
 
-Project video: https://www.loom.com/share/2e04ecbf32d24c37ab6c353e2717a3c6?sid=c7cf2fa4-d43c-4d00-bb59-968e783c6e58 
+
 
 ## FOLDERS
 - `final_deliverable/`: Our final deliverable.
